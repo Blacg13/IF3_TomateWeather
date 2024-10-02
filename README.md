@@ -1,2 +1,2 @@
-# IF3_react_exo_07_APIrequest
+# IF3_exo_react_07_APIrequest
 
